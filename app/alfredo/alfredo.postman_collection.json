@@ -394,14 +394,15 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8080/ortopedistas",
+							"raw": "http://localhost:8080/ortopedistas/incluir",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
 							"port": "8080",
 							"path": [
-								"ortopedistas"
+								"ortopedistas",
+								"incluir"
 							]
 						}
 					},
