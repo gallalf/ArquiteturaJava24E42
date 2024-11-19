@@ -1,0 +1,9 @@
+C;clínica da saúde da mulher;123123123123;(19)99999-9999;13073013
+G;luana souza;15123;70;20;false;false
+G;vania pereira;16798;90;30;true;false
+C;consultório de especialidades;456456456456;(19)98888-8888;13010211
+G;joão oliveira;13222;250;45;true;true
+O;patricia duarte;27989;200;15;coluna;true
+O;alberto sales;33123;300;30;joelho;false
+C;clínica ossos saudáveis;789789789789;(19)97777-7777;13025320
+O;lucas antonio;45444;275;25;punho;true
